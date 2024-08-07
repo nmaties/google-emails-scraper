@@ -1,4 +1,4 @@
-## Google Emails Scrapper
+## Google Emails Scraper
 
 How to run it?
 
